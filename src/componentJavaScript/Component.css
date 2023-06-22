@@ -1,0 +1,11 @@
+.kode_levnav 
+             {
+       
+       position: relative;
+       height:129.2vh;
+        top: -64em;
+        background-color: black;
+        width: 25em;
+        box-shadow: 1px 1px 10px white;
+        
+}
