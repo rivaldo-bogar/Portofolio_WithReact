@@ -1,26 +1,14 @@
 .App-logo {
-  /* margin-left: 25em;  */
-  /* margin-top: -967px; */
   width: auto;
-  box-shadow: 1px 1px 10px white;
-  height:802px;
-  margin-left: 315px;
+  position: absolute;
   align-items: center;
   background-position: center;
   background-size: cover;
   filter: contrast(78%);
   filter: brightness(90%);
+
 }
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+
 
 .App-link {
   color: #61dafb;

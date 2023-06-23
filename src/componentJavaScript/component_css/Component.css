@@ -1,0 +1,83 @@
+@media screen and (min-width:600px){ 
+.kode_levnav  
+      { 
+position: relative;
+height:50em;
+ background-color: black;
+ width: 25em;
+ box-shadow: 1px 1px 10px white;
+ 
+}  
+.mypicprofile .gambarku {
+      position: relative;
+      width: 100%;
+      height: auto;
+      background-repeat: no-repeat;
+      border: 4px solid white;
+      box-sizing: border-box;
+      border-radius: 180px;
+      box-shadow: 1px 1px 16px white;
+
+}
+
+.mypicprofile {
+      
+      margin-left: auto;
+      margin-right: auto;
+      width: 189px;
+}
+.gambarku
+{
+      
+      margin-top: 20px;
+}
+.bgimage {
+
+      background-size: cover;
+      height:50em;
+     
+     
+}
+.backkode {
+      position: absolute;
+      left: 20em;
+      background-position:right;
+     
+}
+.icon:hover {
+
+      width: 10px;
+     
+      filter: drop-shadow(4px 4px 10px blue);
+
+
+}
+.icon {
+
+      width: 30px;
+      height: 30px;
+  
+  }
+.info:hover {
+      color: #834BF4;
+      font-size: 25px;
+      text-shadow: 4px 4px 10px blue;
+      cursor: pointer;
+      
+}
+.menu li {
+      display: block;
+      margin-top: 40px;
+  
+  
+  }
+  .menu {
+
+      margin-top: 50px;
+      margin-left: 65px;
+  
+  }
+  .info {
+      color: white;
+  }
+}

@@ -1,16 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
+import Backgroundimg from './componentJavaScript/Backgroundimg';
 import LeftNav from './componentJavaScript/LeftNav'
 import backimg from './picture/background1.jpg'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={backimg} className="App-logo" alt="logo" />
+    <div className="App-logo">
+    
+        
       
-      </header>
+     <Backgroundimg/>
       <LeftNav/>
+   
     </div>
   );
 }
