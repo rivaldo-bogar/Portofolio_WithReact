@@ -22,6 +22,7 @@ height:50em;
 
 .mypicprofile {
       
+     
       margin-left: auto;
       margin-right: auto;
       width: 189px;
@@ -29,7 +30,7 @@ height:50em;
 .gambarku
 {
       
-      margin-top: 20px;
+      margin-top: 25px;
 }
 .bgimage {
 
@@ -46,38 +47,49 @@ height:50em;
 }
 .icon:hover {
 
-      width: 10px;
+      width: 35px;
      
       filter: drop-shadow(4px 4px 10px blue);
 
 
 }
 .icon {
-
+      
       width: 30px;
       height: 30px;
+      margin-bottom: 27px;
+      
+      
   
   }
 .info:hover {
       color: #834BF4;
-      font-size: 25px;
+    
       text-shadow: 4px 4px 10px blue;
       cursor: pointer;
       
 }
-.menu li {
-      display: block;
-      margin-top: 40px;
-  
-  
-  }
-  .menu {
+.menu-icon {
+      margin-top: 30px;
+}
 
-      margin-top: 50px;
-      margin-left: 65px;
   
+  
+  .iconku{
+     margin-left: 6em;
+     
+  }
+  .Menu-name {
+      margin-left: 10em;
+     margin-top: -14.9em;
   }
   .info {
+     
+      color: white;
+      margin:0px 0px 35px 0px;
+      
+  }
+  .proiflename {
       color: white;
   }
 }

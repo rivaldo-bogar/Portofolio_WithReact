@@ -4,26 +4,30 @@ import Facebk from '../myicon/face.svg'
 import Fileic from '../myicon/fileic.svg'
 import Insta from '../myicon/insta.svg'
 import Myic from '../myicon/myic.svg'
+import Pesanicon from '../myicon/pesanic.svg'
 
 function Menu() {
     return (
       
-          <div className="menu">
+          <div className="menu-icon">
 
 
-       <div>
+       <div className="iconku">
   <li><img src={Home} alt className="icon" />
-    <h3 className="info">Home</h3>
-  </li><li>
   </li><li><img src={Myic} alt className="icon" />
-    <h3 className="info">About</h3>
+   
   </li>
   <li><img src={Fileic} alt className="icon" />
-    <h3 className="info">Resume</h3>
   </li>
-  <li><img src={Insta} alt className="icon" />
-    <h3 className="info">Contact</h3>
+  <li><img src={Pesanicon} alt className="icon" />
   </li>
+
+</div>
+<div className="Menu-name">
+<h3 className="info">Home</h3>
+<h3 className="info">About</h3>
+<h3 className="info">Resume</h3>
+<h3 className="info">Contact</h3>
 </div>
 
            
