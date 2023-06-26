@@ -25,7 +25,8 @@ function Menu() {
 </div>
 <div className="Menu-name">
 <h3 className="info">Home</h3>
-<h3 className="info">About</h3>
+<h3 className="info" onClick={() => console.log('Ini adalah about')
+}>About</h3>
 <h3 className="info">Resume</h3>
 <h3 className="info">Contact</h3>
 </div>

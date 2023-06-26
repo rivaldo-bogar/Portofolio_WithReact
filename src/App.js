@@ -1,20 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
-import Backgroundimg from './componentJavaScript/Backgroundimg';
-import LeftNav from './componentJavaScript/LeftNav'
-import backimg from './picture/background1.jpg'
-import Comright from './componentJavaScript/Comright'
+import './componentJavaScript/Routing'
+import Routing from './componentJavaScript/Routing';
+
 
 function App() {
   return (
     <div className="App-logo">
-    
+    <Routing/>
         
-   
-     <Backgroundimg/>
-     
-      <LeftNav/>
-      <Comright/>
+  
     </div>
   );
 }
