@@ -28,7 +28,7 @@ function Menu() {
 <div className="Menu-name">
 <h3 className="info">Home</h3>
 <h3 className="info" onClick={() => navigate('/about')}>About</h3>
-<h3 className="info">Resume</h3>
+<h3 className="info" onClick={() => navigate('/resume')}>Resume</h3>
 <h3 className="info">Contact</h3>
 </div>
 

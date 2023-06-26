@@ -1,7 +1,7 @@
 function Abouthome() {
     return (
         <div>
-            <h1>Tampilan baru</h1>
+            <h1>About : Masih dalam pengembangan</h1>
         </div>
     )
 }
