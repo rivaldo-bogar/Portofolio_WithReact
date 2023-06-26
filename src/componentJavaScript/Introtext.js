@@ -6,7 +6,7 @@ function Introtext() {
   <p className="paragraftintro">Sebelum itu saya mau memperkenalkan nama saya <em>'Rivaldo Bogar'</em>,Saya adalah seorang programmer pemula.
                 Saya sekarang sedang berkuliah di Sulawesi Utara, Tepatnya di Aermadidi kampus : <em>( UNIVERSITAS
                     KLABAT ).</em>
-                Saya ingin mengucapkan terima kasih buat kalian yang sudah berkunjung.</p>
+                terima kasih buat kalian yang sudah berkunjung.</p>
 </div>
     )
 };

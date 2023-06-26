@@ -97,7 +97,7 @@ height:50em;
   }
  
   .introtext {
-      text-shadow: 1px 1px 4px black;
+      text-shadow: 1px 1px 4px black;     
       color: white;
       font-size: 4.5vh;
       
@@ -120,8 +120,16 @@ height:50em;
       font-size: 15px;
       text-shadow: 1px 1px 4px black;
       color: white;
-      
-  
-
 }
+ .sosmed {
+    width: 30px;  
+    height: auto;
+    margin-left: 10px;
+ }
+ .sosbox {
+      /* background-color: red; */
+      width: 6em;
+      margin-left: auto;
+      margin-right: auto;
+ }
 }
